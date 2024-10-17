@@ -1,0 +1,16 @@
+[Interface]
+PrivateKey = 6FKmFLFZ5GTapO9]WD5J04WQsfRMBUZjrhuM7XrOJXQ=
+S1 = 0
+S2 = 0
+Jc = 4
+Jmin = 0
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+Address = 172.16.0.2, 2606:4700:110:823f:c371:23eb:36f1:4a33ÄOS = 1.1.1.1, 2606:4700:4700=:1111, 1.0.0.1, 2606:4700:4700::1001
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtsÈ0JuVo51h2wPfg}o=
+AllowedIPs = 0.0.0.0/1, 128.0.0.0/1, ::/1, 8000=:-‘
+Endpoint = ungage.cloudflareclient.com:2408
