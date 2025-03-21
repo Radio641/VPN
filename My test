@@ -5,3 +5,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsQnROTjRNRzNONHlUcnJlMXBCTElT@147.45.221.105:55515#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B7%F0%9F%87%BA%20RU-147.45.221.105%3A55515
 vless://0a947205-01a0-4634-8e78-daf200d02def@212.233.94.204:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B7%F0%9F%87%BA%20RU-212.233.94.204%3A443
 trojan://tg-fq521free@45.67.215.95:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%B7%F0%9F%87%BA%20RU-45.67.215.95%3A443
+vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?security=&encryption=none&host=dns.google.com&headerType=http&type=tcp#%F0%9F%87%B7%F0%9F%87%BARussia%E2%84%961%7CFreeDiamondGlaz%7C4GB
