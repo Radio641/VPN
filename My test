@@ -97,6 +97,14 @@ trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@trap-movie-power.stark-industries.
 trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@lemon-gas-army.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#Japan_103.106.0.46
 trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@wake-bagel-tall.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#Brazil_95.164.4.87
 trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@lazy-work-poppy.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#Slovenia_91.132.134.29
-trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@upon-wimp-legal.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#Armenia_213.159.76.190
+trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@upon-wimp-legal.stark-industries.solutions:443?security=t7ls&headerType=none&type=tcp#Armenia_213.159.76.190
+trojan://installshield@38.114.120.66:8443?security=tls&headerType=&type=tcp&sni=www.gpt123.one#London%20%231
+trojan://installshield@38.114.120.47:8443?security=tls&headerType=&type=tcp&sni=www.gpt123.one#London%20%232
+trojan://installshield@38.180.165.14:8443?security=tls&headerType=&type=tcp&sni=www.gpt123.one#Frankfurt%20%231
+trojan://installshield@193.108.118.184:8443?security=tls&headerType=&type=tcp&sni=www.gpt123.one#Frankfurt%20%232
+trojan://installshield@91.239.53.75:8443?security=tls&headerType=&type=tcp&sni=www.gpt123.one#Amsterdam
+trojan://installshield@23.162.152.30:8443?security=tls&headerType=&type=tcp&sni=www.gpt123.one#Paris
+trojan://installshield@23.166.88.110:8443?security=tls&headerType=&type=tcp&sni=www.gpt123.one#Zurich
+
 trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@snarl-dish-cloth.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#North%20Macedonia_91.132.133.117
 trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@vice-dove-flock.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#South%20Korea_45.82.246.59
