@@ -1,10 +1,3 @@
-trojan://installshield@38.114.120.66:8443?security=tls&headerType=none&type=tcp&sni=www.gpt123.one#London%20%231
-trojan://installshield@38.114.120.47:8443?security=tls&headerType=none&type=tcp&sni=www.gpt123.one#London%20%232
-trojan://installshield@38.180.165.14:8443?security=tls&headerType=none&type=tcp&sni=www.gpt123.one#Frankfurt%20%231
-trojan://installshield@193.108.118.184:8443?security=tls&headerType=none&type=tcp&sni=www.gpt123.one#Frankfurt%20%232
-trojan://installshield@91.239.53.75:8443?security=tls&headerType=none&type=tcp&sni=www.gpt123.one#Amsterdam
-trojan://installshield@23.162.152.30:8443?security=tls&headerType=none&type=tcp&sni=www.gpt123.one#Paris
-trojan://installshield@23.166.88.110:8443?security=tls&headerType=none&type=tcp&sni=www.gpt123.one#Zurich
 vless://470ab907-1c5d-11f0-9db1-52540018a154@ru.skysafe.online:443?security=reality&encryption=none&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=d8c929#SkySafe%20%F0%9F%87%B7%F0%9F%87%BA%20RU-KNV641-5366601242
 trojan://vpn@62.133.60.83:2025?path=%2F&security=none&host=dns.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%E2%84%962%7C%40FreeDiamondGlaz%7C2GB
 trojan://vpn@2.59.162.145:2025?path=%2F&security=none&host=dns.google.com&type=ws#%F0%9F%87%B1%F0%9F%87%B9Lithuania%E2%84%961%7CYT-FREE%7C%40FreeDiamondGlaz%7C4GB
