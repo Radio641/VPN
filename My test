@@ -1,3 +1,8 @@
+trojan://768ccbae-7261-4ca0-98eb-a770f8c51663@slaw-hush-agile.stark-industries.solutions:443?security=tls&type=tcp#Russia_91.207.183.80
+vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@213.183.53.17:3389?encryption=auto&headerType=http&host=internet.life.com.by&security=none&type=tcp#Russia%201b7
+vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557?encryption=none&headerType=http&host=internet.life.com.by&security=none&type=tcp#Russia
+vless://b2710e34-985b-4d2b-a72d-d0f07f7d3c3c@uber3.geniusbillionapp.com:443?alpn=http%2F1.1&encryption=none&host=uber3.geniusbillionapp.com&path=%2Fwss&security=tls&sni=uber3.geniusbillionapp.com&type=ws#Russia%20%20185.126.239.201
+vless://c2e7ea4c-56e0-4a6e-8485-c8acc3bbf72d@mosc1.yandixpartners.com:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=mosc1.yandixpartners.com&path=%2Fwss&security=tls&sni=mosc1.yandixpartners.com&type=ws#Russia%2045.84.1.163
 trojan://vpn@62.133.60.83:2025?path=%2F&security=none&host=dns.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%E2%84%962%7C%40FreeDiamondGlaz%7C2GB
 trojan://vpn@2.59.162.145:2025?path=%2F&security=none&host=dns.google.com&type=ws#%F0%9F%87%B1%F0%9F%87%B9Lithuania%E2%84%961%7CYT-FREE%7C%40FreeDiamondGlaz%7C4GB
 trojan://vpn@46.29.234.154:2025?path=%2F&security=none&host=dns.google.com&type=ws#%F0%9F%87%B1%F0%9F%87%B9Lithuania%E2%84%962%7C%40FreeDiamondGlaz%7C1GB
